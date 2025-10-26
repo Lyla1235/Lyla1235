@@ -7,13 +7,6 @@
   
    - I'm currently taking a Grade 11 Computer Science class in Ontario, Canada
 
-## 🌱 Currently Exploring
-
- ## 🏆 Achievements
-
-
-## 📬 Get in Touch
-
 <!--
 
 Here are some ideas to get you started:
